@@ -1,6 +1,8 @@
 # pushNotification
 push Notification base on IOS system and Http2 protocol.(apns-http2)
 
+Get from origin https://github.com/linkedkeeper/apns-http2
+
 apns-http2
 A Java library for sending notifications via APNS using Apple's new HTTP/2 API. This library uses Netty4.
 Note: This is required until Java 7 is released.
